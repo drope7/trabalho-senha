@@ -7,7 +7,7 @@
     --fundo-texto: #623968;
     --borda: #b57edc;
     --roboto: "Bebas Neue", sans-serif;
-    --roboto-mono: "Bebas Neue", sans-serif;
+    --roboto-mono: sans-serif;
 }
 
 * {
